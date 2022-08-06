@@ -14,11 +14,10 @@ def main():
     theta = math.atan(b/a)
     theta = 180 * theta/math.pi
 
+    print(f"\nz1 = {z1:.4f}")
+    
     print("\nz2polar = (radius = %0.4f,theta = %0.4f)" % (radius, theta))
-
-    print(f"z1 = {z1:.4f}")
     print(f"z2 = {z2:.4f}")
-
     print(f"z1 + z2 = {z1+z2:.4f}")
     print(f"z1 - z2 = {z1-z2:.4f}")
     print(f"z1 * z2 = {z1*z2:.4f}")
