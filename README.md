@@ -1,7 +1,7 @@
 # complexAlgebra
 
 ### Description
-This python code uses the theory of [Complex Algebra](https://tutorial.math.lamar.edu/classes/alg/ComplexNumbers.aspx) to compute a mulitude of operatinons when given rectangular coordinates.
+This python code uses theories in [Complex Algebra](https://tutorial.math.lamar.edu/classes/alg/ComplexNumbers.aspx) to compute a mulitude of operatinons when given rectangular coordinates.
 ####  Computations:
       1. Rectangular to polar (z1)
       2. Rectangular to polar (z2)
